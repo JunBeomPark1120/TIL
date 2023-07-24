@@ -37,8 +37,8 @@ git commit -m 'message'
 ```shell
 git remote add origin <remoteurl>
 ```
-- 
+- 원격저장소 주소를 `origin`이라는 별명으로 저장
 
 ```shell
-git commit -m 'message'
+git push origin master
 ```
