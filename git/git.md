@@ -21,7 +21,7 @@ git init
 ```shell
 git add . 
 ```
--`working directory`에 있는 파일, 폴더를 `staging area`에 추가
+- `working directory`에 있는 파일, 폴더를 `staging area`에 추가
 - add 하기 전에 파일이 저장 되었는지 확인
 
 ```shell
