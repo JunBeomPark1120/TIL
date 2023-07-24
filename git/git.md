@@ -38,7 +38,9 @@ git commit -m 'message'
 git remote add origin <remoteurl>
 ```
 - 원격저장소 주소를 `origin`이라는 별명으로 저장
+- 한 번 연결 후 이후에는 push명령어로만 사용하여 업로드
 
 ```shell
 git push origin master
 ```
+- `master`브런치를 `origin` 원격저장소로 업로드
